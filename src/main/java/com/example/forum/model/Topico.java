@@ -1,5 +1,6 @@
 package com.example.forum.model;
 
+import jakarta.persistence.Entity;
 import lombok.Data;
 import javax.persistence.*;
 import java.time.LocalDate;
